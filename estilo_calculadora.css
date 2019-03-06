@@ -7,7 +7,7 @@
 	font-weight:1000;
 	border-radius: 8px;
 	border:1px solid#000000;
-	background:5%,rgba(58, 110, 252, 0.336);
+	background:5%,rgba(58, 110, 252, 0.192);
 	box-shadow:0.1px 0.1px 1.5px #000000 ; 	
 }
 
@@ -22,7 +22,7 @@
 	font-weight:1000;
 	border-radius: 8px;
 	border:1px solid#000000;
-	background:5%,rgba(58, 110, 252, 0.336);
+	background:5%,rgba(58, 110, 252, 0.192);
 	box-shadow:0.1px 0.1px 1.5px #000000 ;	
 }
 
@@ -66,10 +66,10 @@ body{
 
 .color_display{
 	height:30px;
-	background:-webkit-linear-gradient(bottom, #f3d5ff, #f8eefc);
+	background: #023f8fa6;
 	border:medium #FFF;
 	font: "Arial Black";
-	color:#000000;
+	color:#00f7ff;
 	font-size:18px;
 	font-weight: 500;
 	text-align:right;
