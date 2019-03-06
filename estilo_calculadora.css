@@ -49,9 +49,14 @@ td{
 }
 
 footer{
+<<<<<<< HEAD
 
 	
 	margin-top: 10%;
+=======
+	
+	margin-top:10%;
+>>>>>>> 80262a98157d5bf378187c95426708b53e7a3ea4
 }
 
 input[type="text"] { border: 2px solid rgb(0, 0, 0) }
